@@ -3,6 +3,7 @@ import './Booking.css'
 
 const Booking = () => {
     return (
+        // booking api stripe api?
         <div>Booking</div>
     )
 }
