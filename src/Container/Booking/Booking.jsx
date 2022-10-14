@@ -4,7 +4,11 @@ import './Booking.css'
 const Booking = () => {
     return (
         // booking api stripe api?
-        <div>Booking</div>
+        <div>
+            <div>
+                <h1>BOOKING SECTION</h1>
+            </div>
+        </div>
     )
 }
 
