@@ -1,0 +1,15 @@
+.app__about {
+    height: 50vh;
+
+}
+
+.app__about-container {
+    background-color: antiquewhite;
+    height: 100%;
+}
+
+.app__about-mission {
+    text-align: center;
+    width: 50%;
+    padding-top: 35%;
+}
