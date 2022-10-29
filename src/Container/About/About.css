@@ -6,6 +6,8 @@
 .app__about-container {
     background-color: antiquewhite;
     height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .app__about-mission {

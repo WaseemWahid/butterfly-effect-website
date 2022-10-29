@@ -1,4 +1,5 @@
 import React from 'react'
+import { images } from '../../constants'
 import './About.css'
 
 const About = () => {
@@ -14,7 +15,7 @@ const About = () => {
                     Aura cleansing offered if you need assistance in breaking free of any energy that may no longer serve your highest good.
                 </p>
                 <div className='app__about-image'>
-                    <img alt='about image'/>
+                    <img src={images.aboutImage} alt='about image'/>
                 </div>
             </div>
         </div>
