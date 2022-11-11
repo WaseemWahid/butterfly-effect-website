@@ -1,0 +1,30 @@
+.app__enlightenment {
+    height: 100vh;
+    margin-top: 200px ;
+}
+
+.header-text {
+    text-align: center;
+    font-weight: bolder;
+    color: var(--weldon-blue);
+}
+
+.enlightenment__cards {
+    display: flex;
+    margin-top: 1rem;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card__box {
+    width: 30vw;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
+    border-radius: 13%;
+    background-color: var(--black-shadows);
+}
+
+.card__box h3 {
+    color: var(--weldon-blue);
+}

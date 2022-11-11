@@ -3,7 +3,7 @@
 }
 
 .app__about-container {
-    background-color: antiquewhite;
+    background-color: var(--black-shadows);
     display: flex;
     flex-direction: row-reverse;
     width: 50vw;
