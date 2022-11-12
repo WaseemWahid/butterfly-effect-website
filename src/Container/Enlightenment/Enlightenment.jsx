@@ -7,13 +7,16 @@ const Enlightenment = () => {
             <h1 className='header-text'>Enlightenment</h1>
             <div className='enlightenment__cards'>
                 <div className='card__box'>
-                    <h3>3 card oracle</h3>
-                    <p>$11.11</p>
-                    <h6>Description</h6>
-                    <p> 
-                        A three card oracle reading is a wonderful way to look into a specific situation or to 
-                        find an in-depth answer and understanding of a challenging question.
-                    </p>
+                    <a>
+                        <h3>3 card oracle</h3>
+                        <p>$11.11</p>
+                        <h6>Description</h6>
+                        <p> 
+                            A three card oracle reading is a wonderful way to look into a specific situation or to 
+                            find an in-depth answer and understanding of a challenging question.
+                        </p>
+                    </a>
+
                 </div>
                 <div className='card__box'>
                     <h3>Career path</h3>
