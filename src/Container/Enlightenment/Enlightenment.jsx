@@ -7,16 +7,14 @@ const Enlightenment = () => {
             <h1 className='header-text'>Enlightenment</h1>
             <div className='enlightenment__cards'>
                 <div className='card__box'>
-                    <a>
-                        <h3>3 card oracle</h3>
-                        <p>$11.11</p>
-                        <h6>Description</h6>
-                        <p> 
-                            A three card oracle reading is a wonderful way to look into a specific situation or to 
-                            find an in-depth answer and understanding of a challenging question.
-                        </p>
-                    </a>
-
+                    <h3>3 card oracle</h3>
+                    <p>$11.11</p>
+                    <h6>Description</h6>
+                    <p> 
+                        A three card oracle reading is a wonderful way to look into a specific situation or to 
+                        find an in-depth answer and understanding of a challenging question.
+                    </p>
+                    <button className='app__button'>Add to bag</button>
                 </div>
                 <div className='card__box'>
                     <h3>Career path</h3>
@@ -33,6 +31,7 @@ const Enlightenment = () => {
                         Final reading will be sent back to you in a private link via e-mail within 24 hours of booking. 
                         You will be able to download a copy of the video in HD. Live readings available upon request.
                     </p>
+                    <button className='app__button'>Add to bag</button>
                 </div>
                 <div className='card__box'>
                     <h3>Love Reading</h3>
@@ -53,6 +52,7 @@ const Enlightenment = () => {
                         Final reading will be sent back to you via e-mail within 24 hours of booking. 
                         Live readings available per request.
                     </p>
+                    <button className='app__button'>Add to bag</button>
                 </div>
             </div>
         </div>

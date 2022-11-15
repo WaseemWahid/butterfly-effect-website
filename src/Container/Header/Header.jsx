@@ -3,7 +3,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className='app__header-container'>
+        <div className='app__header'>
             <div>
                 <h1>Butterfly Effect</h1>
                 <h3>A location for all your healing needs</h3>
