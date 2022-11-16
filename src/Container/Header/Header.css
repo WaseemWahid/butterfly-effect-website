@@ -1,4 +1,13 @@
 .app__header{
-    height: 30vh;
+    height: 80vh;
+    width: 100%;
     padding-top: 100px;
+    justify-content: center;
+}
+
+.app__header-container {
+    height: 100%;
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 3%;
 }
