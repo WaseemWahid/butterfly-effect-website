@@ -43,4 +43,5 @@
 
 .app__navbar-links a:hover {
     color: var(--pale-silver);
+    text-decoration: underline;
 }

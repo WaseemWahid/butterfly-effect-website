@@ -1,1 +1,4 @@
-
+.app {
+    background-color: var(--light-silver);
+    font-family: var(--font-base);
+}

@@ -1,16 +1,17 @@
 import React from 'react';
-import { About, Booking, Enlightenment, Header, Navbar } from './Container';
+import { About, Booking, Enlightenment, Header, Navbar, Testimonials } from './Container';
 
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div className="app">
       <Navbar />
       <Header />
       <About />
       <Enlightenment />
       <Booking />
+      <Testimonials />
     </div>
   );
 }

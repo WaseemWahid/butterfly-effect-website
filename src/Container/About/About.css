@@ -14,15 +14,13 @@
     box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
 }
 
-.p-text {
-    border-radius: 15px;
-    margin-left: 20px;
-}
-
 .app__about-header {
     text-align: center;
     color: var(--weldon-blue);
     font-size: 3rem;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding-bottom: 1rem;
 }
 
 .p-text {
@@ -30,13 +28,12 @@
 }
 
 .app__about-mission {
-    text-align: center;
     width: 50%;
     padding-top: 35%;
-    margin-right: 1rem;
 }
 
 .app__about-image img {
-    height: 300px;
+    height: 500px;
     border-radius: 15px;
+    margin: 1rem;
 }
