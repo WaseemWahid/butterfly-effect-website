@@ -2,7 +2,9 @@ import React from 'react'
 
 const Testimonials = () => {
     return (
-        <div>Testimonials</div>
+        <div className='app__testimonials'>
+            <h1>Testimonials</h1>
+        </div>
     )
 }
 
