@@ -4,6 +4,7 @@ const Testimonials = () => {
     return (
         <div className='app__testimonials'>
             <h1>Testimonials</h1>
+            <p>Testimonials will be added here </p>
         </div>
     )
 }
